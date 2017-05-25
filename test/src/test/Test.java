@@ -8,7 +8,7 @@ import javax.swing.JPanel;
 
 public class Test extends JFrame {
 	   // Define constants
-	   public static final int CANVAS_WIDTH  = 640;
+	   public static final int CANVAS_WIDTH  = 1024;
 	   public static final int CANVAS_HEIGHT = 480;
 	 
 	   // Declare an instance of the drawing canvas,
